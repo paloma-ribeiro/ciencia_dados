@@ -1,6 +1,6 @@
-# automacao_web
+# ciencia_dados
 
-## Automação Web e busca de informações com Python
+## Projeto Ciência de Dados - Previsão de Vendas
 
 ### Descrição do Desafio
 #### Conseguir prever as vendas que vamos ter em um determinado período com base nos gastos em anúncios nas 3 grandes redes que a empresa Hashtag investe: TV, Jornal e Rádio.
